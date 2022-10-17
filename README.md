@@ -41,6 +41,8 @@ I am a Java Software Developer <img src="https://media.giphy.com/media/WUlplcMpO
   <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"  alt="PostgreSQL" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
+ <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="60" height="60"/ style="margin:5px;">
+ <img src="https://graphql.org/img/logo.svg" title="GraphQL" **alt="GraphQL" width="50" height="50" style="margin-left:15px"/>
 </div>
 ---
 
@@ -48,3 +50,7 @@ I am a Java Software Developer <img src="https://media.giphy.com/media/WUlplcMpO
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ZuhriddinShamsiddinov&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZuhriddinShamsiddinov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<div>
+  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
